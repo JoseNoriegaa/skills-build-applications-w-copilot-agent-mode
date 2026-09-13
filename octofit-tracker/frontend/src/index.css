@@ -1,0 +1,5 @@
+html { font-family: 'Trebuchet MS', 'Segoe UI', sans-serif; background: #f3f5ee; }
+
+body { margin: 0; }
+
+button, a { transition: color .2s ease, background-color .2s ease, border-color .2s ease; }
